@@ -44,7 +44,7 @@ Analyze Chicago Traffic Citation Dataset: <br/>
 <br />
 
 Design Entity Relationship Diagram (ERD): <br/>
-<img src="YOUR_ERD_SCREENSHOT" height="80%" width="80%" alt="ERD Diagram"/>
+<img src="https://i.imgur.com/elwLjXc.png" height="80%" width="80%" alt="ERD Diagram"/>
 <br />
 <br />
 
