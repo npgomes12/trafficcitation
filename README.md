@@ -39,7 +39,7 @@ This project consists of designing and implementing a relational database to man
 
 <p align="center">
 Analyze Chicago Traffic Citation Dataset: <br/>
-<img src="YOUR_DATASET_SCREENSHOT" height="80%" width="80%" alt="Dataset Analysis"/>
+<img src="https://i.imgur.com/RraqvA5.png" height="80%" width="80%" alt="Dataset Analysis"/>
 <br />
 <br />
 
