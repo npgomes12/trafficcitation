@@ -27,12 +27,12 @@ This project consists of designing and implementing a relational database to man
 <ul>
   <li>Designed and normalized a relational database containing 11 interconnected tables</li>
   <li>Developed an Entity Relationship Diagram (ERD) to model database relationships</li>
-  <li>Implemented primary and foreign key constraints</li>
-  <li>Created SQL views to analyze citation trends and officer activity</li>
-  <li>Developed stored procedures to retrieve citation information by violation and vehicle type</li>
-  <li>Created SQL functions to calculate citation statistics and violation summaries</li>
-  <li>Imported and transformed real-world Chicago traffic citation data</li>
-  <li>Generated insights on citation trends, notice levels, locations, and fine amounts</li>
+  <li>Implemented primary and foreign key constraints to maintain data integrity</li>
+  <li>Developed complex SQL queries to analyze citation trends and officer activity</li>
+  <li>Performed data aggregation and reporting using GROUP BY, COUNT, and JOIN operations</li>
+  <li>Imported, cleaned, and transformed real-world Chicago traffic citation data</li>
+  <li>Generated analytical reports on violations, locations, notice levels, and fine amounts</li>
+  <li>Identified trends and patterns within citation data to support data-driven insights</li>
 </ul>
 
 <h2>Program Walk-through:</h2>
