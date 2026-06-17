@@ -64,3 +64,15 @@ Execute Analytical SQL Queries: <br/>
 <br />
 
 
+<h2>Project Report</h2>
+
+<p>
+For a detailed overview of the database design process, Entity Relationship Diagram (ERD), SQL implementation, data transformation, and analytical findings, view the full project report below:
+</p>
+
+<p>
+📄 <a href="Traffic_Citation_Management_Report.pdf" target="_blank">
+Traffic Citation Management Database Report
+</a>
+</p>
+
