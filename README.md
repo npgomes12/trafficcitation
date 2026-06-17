@@ -63,6 +63,4 @@ Execute Analytical SQL Queries: <br/>
 <br />
 <br />
 
-Analyze Citation Trends and Reports: <br/>
-<img src="YOUR_REPORT_SCREENSHOT" height="80%" width="80%" alt="Reports"/>
-</p>
+
