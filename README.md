@@ -63,11 +63,6 @@ Execute Analytical SQL Queries: <br/>
 <br />
 <br />
 
-Create Stored Procedures and Functions: <br/>
-<img src="YOUR_PROCEDURES_SCREENSHOT" height="80%" width="80%" alt="Stored Procedures"/>
-<br />
-<br />
-
 Analyze Citation Trends and Reports: <br/>
 <img src="YOUR_REPORT_SCREENSHOT" height="80%" width="80%" alt="Reports"/>
 </p>
