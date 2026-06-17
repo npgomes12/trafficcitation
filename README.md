@@ -54,12 +54,12 @@ Create Database Schema: <br/>
 <br />
 
 Build SQL Tables and Relationships: <br/>
-<img src="YOUR_TABLES_SCREENSHOT" height="80%" width="80%" alt="Database Tables"/>
+<img src="https://i.imgur.com/z0pNER6.png" height="80%" width="80%" alt="Database Tables"/>
 <br />
 <br />
 
-Implement Views and Queries: <br/>
-<img src="YOUR_VIEWS_SCREENSHOT" height="80%" width="80%" alt="Views and Queries"/>
+Execute Analytical SQL Queries: <br/>
+<img src="https://i.imgur.com/OzMCDYY.png" height="80%" width="80%" alt="Views and Queries"/>
 <br />
 <br />
 
