@@ -19,7 +19,7 @@ This project consists of designing and implementing a relational database to man
 
 <ul>
   <li><b>MySQL Workbench</b></li>
-  <li><b>Apple OS</b></li>
+  <li><b>macOS</b></li>
 </ul>
 
 <h2>Database Features</h2>
