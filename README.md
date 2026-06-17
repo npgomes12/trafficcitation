@@ -49,7 +49,7 @@ Design Entity Relationship Diagram (ERD): <br/>
 <br />
 
 Create Database Schema: <br/>
-<img src="YOUR_SCHEMA_SCREENSHOT" height="80%" width="80%" alt="Database Schema"/>
+<img src="https://i.imgur.com/ukVxOYC.png" height="80%" width="80%" alt="Database Schema"/>
 <br />
 <br />
 
